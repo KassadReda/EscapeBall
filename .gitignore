@@ -1,0 +1,2 @@
+# files that we dont want them to be uploaded
+*.pyc
