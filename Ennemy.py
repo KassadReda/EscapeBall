@@ -8,7 +8,7 @@ def create(x,y,speed):
 	ennemy['x']= x
 	ennemy['y'] = y
 	ennemy['speed'] = speed 
-	return ennemy
+	return ennemy   
 	
 def getX(e):
 	return e['x']
